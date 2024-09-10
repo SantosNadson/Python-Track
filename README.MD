@@ -1,0 +1,1 @@
+This repository has the purpose of storing the second project of the Kick course, which consists of creating a script capable of obtaining educational data from the website https://dadosabertos.mec.gov.br/ and subsequently displaying it in graphs along with a PDF,the analysis and idea obtained from the csv file.
