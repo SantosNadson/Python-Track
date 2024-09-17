@@ -1,1 +1,1 @@
-This repository has the purpose of storing python exercises and the main project (script for data analysis) of the Kick course, folders named "Parada x" are some initial exercises and the folder "Analysis_Script" is the main project.
+This repository has the purpose of storing python exercises and the main project (script for data analysis) of the Kick course, folders named "Parada x" are some initial exercises and the folder "Analysis Script" is the main project.
