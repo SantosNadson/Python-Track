@@ -1,1 +1,1 @@
-This repository has the purpose of storing the second project of the Kick course, which consists of creating a script capable of obtaining educational data from the website https://dadosabertos.mec.gov.br/ and subsequently displaying it in graphs along with a PDF,the analysis and idea obtained from the csv file.
+This repository has the purpose of storing python exercises and the main project (script for data analysis) of the Kick course, folders named "Parada x" are some initial exercises and the folder "Analysis_Script" is the main project.
